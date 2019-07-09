@@ -1,7 +1,7 @@
 {
-  "name": "apollo-server-express-bplate",
+  "name": "apollo-server-express-app",
   "version": "1.0.0",
-  "description": "Boilerplate GraphQL server using Apollo-Server and ExpressJS",
+  "description": "React App with GraphQL server using Apollo-Server and ExpressJS",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js"

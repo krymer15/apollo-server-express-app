@@ -31,7 +31,7 @@ app.get('/graphql', graphqlHTTP({
 server.applyMiddleware({ app });
 
 // Set port for Express app
-const PORT = 3000;
+const PORT = 5000;
 app.listen(PORT, () => {
     console.log(`Server listening on http://localhost:${PORT}${server.graphqlPath}`);
 });
